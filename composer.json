@@ -1,0 +1,22 @@
+{
+  "name": "uupt/contract",
+  "description": "contract",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "maozihao",
+      "email": "4213509@qq.com"
+    }
+  ],
+  "require": {
+  },
+  "suggest": {
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "UUPT\\Contract": "src/"
+    }
+  }
+}
