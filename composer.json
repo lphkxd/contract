@@ -1,7 +1,6 @@
 {
   "name": "uupt/contract",
   "description": "contract",
-  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
